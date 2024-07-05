@@ -14,7 +14,7 @@
   <h3 align="center">Modern UI/UX website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://667ea9c4fc8ca02073714e1c--musical-halva-29a9ad.netlify.app/" target="_blank"><b>Times Solutions</b></a> YouTube.
+     Build this project step by step with our detailed tutorial on <a href="https://667ea9c4fc8ca02073714e1c--musical-halva-29a9ad.netlify.app/" target="_blank"><b>Times Solutions</b></a>.
     </div>
 </div>
 
